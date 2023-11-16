@@ -1,0 +1,4 @@
+- Hi, I am PumpkinHorse280
+- Beginner developer
+- Learning Java, HTML, CSS, C
+- Feel free to contact me on Discord: PumpkinHorse280
