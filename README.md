@@ -1,4 +1,5 @@
 - Hi, I am PumpkinHorse280
 - Beginner developer
-- Learning Java, HTML, CSS, C
+- Beginner Minecraft Mod Creator
+- Learning Java
 - Feel free to contact me on Discord: PumpkinHorse280
