@@ -2,5 +2,5 @@
 - Beginner developer
 - Beginner Minecraft Mod Creator
 - Learning Java
-- Feel free to contact me on Discord: PumpkinHorse280
+- Feel free to contact me on Discord: pumpk1ncraft_
 - https://solo.to/pumpkincraft_
