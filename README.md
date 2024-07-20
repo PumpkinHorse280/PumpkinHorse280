@@ -3,4 +3,4 @@
 - Beginner Minecraft Mod Creator
 - Learning Java
 - Feel free to contact me on Discord: pumpk1ncraft_
-- NEW ACCOUNT: PumpkinCraft_
+- NEW ACCOUNT: PumpkinCraft_ (pumpk1ncraft)
